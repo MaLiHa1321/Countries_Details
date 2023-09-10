@@ -1,0 +1,12 @@
+.Country{
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+.img{
+    width: 30%;
+    height: 30%;
+}
+
